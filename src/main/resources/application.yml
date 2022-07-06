@@ -4,8 +4,8 @@ spring:
     name: todo
 
   datasource:
-    password: 1
-    url: jdbc:postgresql://localhost:5432/todo
+    password: grootgroot
+    url: jdbc:postgresql://localhost:5432/todoapplication
     username: postgres
 
   jpa:
